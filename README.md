@@ -8,10 +8,8 @@
   <br>
   <br />
   <h2>
-  ESEDHOUND is a python script that extract datatable from the ntds.dit file<br />
-to retrieve users, computers and groups.<br /><br />
-The goal is to send all the infos into Bloodhound to help incident responders<br />
-for identifying AD objects.<br />
+  ESEDHOUND is a python script that extract datatable from the ntds.dit file to retrieve users, computers and groups.<br /><br />
+The goal is to send all the infos into Bloodhound to help incident responders for identifying AD objects.<br />
 </h2>
 </div>
 
