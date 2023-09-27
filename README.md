@@ -7,12 +7,12 @@
   <a href="https://twitter.com/intent/follow?screen_name=ProcessusT" title="Follow"><img src="https://img.shields.io/twitter/follow/ProcessusT?label=ProcessusT&style=social"></a>
   <br>
   <br />
+</div>
+
   <h2>
   ESEDHOUND is a python script that extract datatable from the ntds.dit file to retrieve users, computers and groups.<br /><br />
 The goal is to send all the infos into Bloodhound to help incident responders for identifying AD objects.<br />
 </h2>
-</div>
-
 
 <br>
 <div align="center">
